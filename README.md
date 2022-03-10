@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Studioname
-- 👀 I’m interested in learning Python !
-- 🌱 I’m currently learning Python !
+- 👀 I’m interested in learning Software Development!
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on... not much!
 - 📫 studionamestudioname@gmail.com
 
